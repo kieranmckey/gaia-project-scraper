@@ -1,0 +1,37 @@
+# attributes_to_del = ["data-v-56594ec2", "style", "border", "rowspan", "colspan", "width", "height",
+        #                      "align", "valign", "color", "bgcolor", "cellspacing",
+        #                      "cellpadding", "onclick", "alt", "title"]
+        # for attr_del in attributes_to_del:
+        #     [s.
+        #     attrs.pop(attr_del) for s in raw_game_log.find_all() if attr_del in s.attrs]
+
+        # d = OrderedDict()
+        # for th, td in zip(soup.select('th'), raw_game_log.select('td')[::2]):
+        #     d[th.text.strip()] = td.text.strip().splitlines()
+        # pprint(d)
+
+        # new_link = soup.new_tag('td')
+        # old_b = raw_game_log.div.unwrap()
+
+
+        # soup_string = str(raw_game_log)
+        # # print(raw_game_log.prettify())
+        # dfs = pd.read_html(soup_string)
+        # pd.set_option("display.max_rows", None)
+        # print(dfs)
+        # dfs[0].head()
+        # dfs[0].describe()
+        # dfs[0].columns = ['who', 'action', 'result']
+        # df = dfs[0]
+        # d = df[df['who'].str.contains('terrans')]
+        # t2 = d[d['result'].notnull()]
+        # r = t2[t2['result'].str.contains('vp')]
+        # df[df['who'].str.contains('xenos') & df['result'].str.contains('vp')]['result']
+        # df['score'] = df['result'].str.extract('(.\d*vp)')
+        # df['score'] = df['score'].str.replace('vp', '')
+        # df.score = pd.to_numeric(df.score, downcast='integer').fillna(0)
+        # r = t2['result'].str.extractall('( \d*vp)').dropna()
+
+
+        # with open("tester.xml", "w", encoding='utf-8') as file:
+        #     file.write(str(raw_game_log.prettify()))

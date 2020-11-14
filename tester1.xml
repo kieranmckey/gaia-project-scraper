@@ -1,0 +1,4895 @@
+<div class="col-12 order-last mt-4" data-v-56594ec2="">
+ <table class="table table-hover table-striped table-sm">
+  <tbody>
+   <tr class="major-event">
+    <td>
+     Game Ended
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans
+    </td>
+    <td>
+     final1
+     <div>
+      final2
+     </div>
+     <div>
+      terra
+     </div>
+     <div>
+      nav
+     </div>
+     <div>
+      gaia
+     </div>
+    </td>
+    <td>
+     <div>
+      18vp
+     </div>
+     <div>
+      9vp
+     </div>
+     <div>
+      8vp
+     </div>
+     <div>
+      12vp
+     </div>
+     <div>
+      12vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos
+    </td>
+    <td>
+     <div>
+      final1
+     </div>
+     <div>
+      final2
+     </div>
+     <div>
+      terra
+     </div>
+     <div>
+      nav
+     </div>
+     <div>
+      int
+     </div>
+     <div>
+      sci
+     </div>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      6vp
+     </div>
+     <div>
+      18vp
+     </div>
+     <div>
+      12vp
+     </div>
+     <div>
+      4vp
+     </div>
+     <div>
+      12vp
+     </div>
+     <div>
+      4vp
+     </div>
+     <div>
+      1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars
+    </td>
+    <td>
+     <div>
+      final1
+     </div>
+     <div>
+      final2
+     </div>
+     <div>
+      nav
+     </div>
+     <div>
+      gaia
+     </div>
+     <div>
+      sci
+     </div>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      12vp
+     </div>
+     <div>
+      9vp
+     </div>
+     <div>
+      8vp
+     </div>
+     <div>
+      4vp
+     </div>
+     <div>
+      8vp
+     </div>
+     <div>
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     End scoring
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans pass
+    </td>
+    <td>
+     <div>
+      adv-terra
+     </div>
+    </td>
+    <td>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans burn 1. spend 1q for 1o. spend 2pw for 2c. build m 6A11.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -1q, 1o, -2pw, 2c
+     </div>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans up gaia.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      gaia
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      11vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos pass
+    </td>
+    <td>
+     <div>
+      adv-int
+     </div>
+     <div>
+      booster6
+     </div>
+    </td>
+    <td>
+     <div>
+      15vp
+     </div>
+     <div>
+      6vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans burn 4. action power5.
+    </td>
+    <td>
+     <div>
+      power5
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos spend 1q for 1o. spend 2pw for 2c. spend 1o for 1t. federation 1A2,1A3,3A4,3A5,3A6,4A8,4B4 fed1.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      federation
+     </div>
+    </td>
+    <td>
+     <div>
+      -1q, 0o, -2pw, 2c, 1t
+     </div>
+     <div>
+      -4t, 12vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars decline 4pw
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build ts 4A4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos special q.
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+    </td>
+    <td>
+     <div>
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars spend 3pw for 1o. pass
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      -3pw, 1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 1pw for 1c. up gaia.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      up
+     </div>
+    </td>
+    <td>
+     <div>
+      -1pw, 1c
+     </div>
+     <div>
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos special 4pw.
+    </td>
+    <td>
+     <div>
+      tech-terra
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars special 4pw.
+    </td>
+    <td>
+     <div>
+      tech-terra
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans federation 10A6,7A2 fed4.
+    </td>
+    <td>
+     <div>
+      federation
+     </div>
+    </td>
+    <td>
+     <div>
+      7vp, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos spend 2pw for 2c. spend 1k for 1c. spend 1q for 1o. build ac2 1A3. tech terra. decline up.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+     <div>
+      round6
+     </div>
+    </td>
+    <td>
+     <div>
+      -2pw, 3c, -1k, -1q, 1o
+     </div>
+     <div>
+      -6c, -6o
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars special 3k.
+    </td>
+    <td>
+     <div>
+      adv-sci
+     </div>
+    </td>
+    <td>
+     <div>
+      3k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans up gaia.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      gaia
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      3pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos spend 3pw for 1o. federation 2A1,6A2,6A8,6B1,6B2,6B4,6C fed4.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      federation
+     </div>
+    </td>
+    <td>
+     <div>
+      -3pw, 1o
+     </div>
+     <div>
+      -3t, 7vp, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 4pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw, -3vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars spend 1q for 1o. build ac2 9A8. tech terra. up terra.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+     <div>
+      round6
+     </div>
+    </td>
+    <td>
+     <div>
+      -1q, 1o
+     </div>
+     <div>
+      -6c, -6o
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 1q for 1o. build ac1 10A6. tech int. up int.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+     <div>
+      tech-int
+     </div>
+     <div>
+      int
+     </div>
+     <div>
+      round6
+     </div>
+    </td>
+    <td>
+     <div>
+      -1q, 1o
+     </div>
+     <div>
+      -6c, -6o
+     </div>
+     <div>
+      5k
+     </div>
+     <div>
+      1q
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build ts 6B2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans decline 2pw
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 4pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw, -3vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build lab 9A8. tech adv-sci. cover sci. up terra.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      terra
+     </div>
+    </td>
+    <td>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special q.
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+    </td>
+    <td>
+     <div>
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build ts 6B4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans decline 2pw
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos decline 4pw
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build ts 9A8.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      adv-nav
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+     <div>
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos decline 2pw
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build ac2 7A2. tech adv-terra. cover terra. up gaia.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      gaia
+     </div>
+     <div>
+      round6
+     </div>
+    </td>
+    <td>
+     <div>
+      -6c, -6o
+     </div>
+     <div>
+      3t
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos action power7.
+    </td>
+    <td>
+     <div>
+      power7
+     </div>
+    </td>
+    <td>
+     <div>
+      -3pw, 2t
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars up sci.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans action power3.
+    </td>
+    <td>
+     <div>
+      power3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 4B4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars action power4.
+    </td>
+    <td>
+     <div>
+      power4
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 7c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special 4pw.
+    </td>
+    <td>
+     <div>
+      tech-terra
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos up sci.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      sci
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      3pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars up gaia.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      gaia
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      3pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 6tg for 6c
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      6c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Gaia phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans income 2t. income 4pw
+    </td>
+    <td>
+     <div>
+      booster2
+     </div>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free2
+     </div>
+    </td>
+    <td>
+     <div>
+      2t, 1o
+     </div>
+     <div>
+      4pw, 8o, 4k, 1t, 7c
+     </div>
+     <div>
+      1k, 1c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free1
+     </div>
+     <div>
+      tech-free2
+     </div>
+     <div>
+      sci
+     </div>
+     <div>
+      booster6
+     </div>
+    </td>
+    <td>
+     <div>
+      7o, 5k, 4pw, 1q
+     </div>
+     <div>
+      4c
+     </div>
+     <div>
+      1k, 1c
+     </div>
+     <div>
+      2k
+     </div>
+     <div>
+      1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars income 4pw
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free1
+     </div>
+     <div>
+      tech-free2
+     </div>
+     <div>
+      sci
+     </div>
+     <div>
+      booster7
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw, 7o, 5k, 2t
+     </div>
+     <div>
+      4c
+     </div>
+     <div>
+      1k, 1c
+     </div>
+     <div>
+      3k
+     </div>
+     <div>
+      1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Income phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td class="major-event">
+     Round 6
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans pass booster2
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build gf 6A11.
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans federation 1A10,3A8 fed3.
+    </td>
+    <td>
+     <div>
+      federation
+     </div>
+     <div>
+      round5
+     </div>
+    </td>
+    <td>
+     <div>
+      0t, 8vp
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos pass booster6
+    </td>
+    <td>
+     <div>
+      adv-int
+     </div>
+    </td>
+    <td>
+     <div>
+      9vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans burn 2. spend 2pw for 2c. build m 1A9.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2pw, 2c
+     </div>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos action qic1. tech sci. up sci.
+    </td>
+    <td>
+     <div>
+      qic1
+     </div>
+     <div>
+      tech-sci
+     </div>
+    </td>
+    <td>
+     <div>
+      -4q
+     </div>
+     <div>
+      7vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 3pw for 3c. build ts 1B4.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3pw, 3c
+     </div>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos up sci.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 1B4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars pass booster7
+    </td>
+    <td>
+     <div>
+      booster6
+     </div>
+    </td>
+    <td>
+     <div>
+      7vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos up int.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      int
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      4q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build ts 9B5.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars federation 1A4,1B2,5A8,7A10,8A1,8A3,8B1 fed3.
+    </td>
+    <td>
+     <div>
+      federation
+     </div>
+     <div>
+      round5
+     </div>
+    </td>
+    <td>
+     <div>
+      -1t, 8vp
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos burn 1. action power5.
+    </td>
+    <td>
+     <div>
+      power5
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special 4pw.
+    </td>
+    <td>
+     <div>
+      tech-terra
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars action power2. build m 1B2.
+    </td>
+    <td>
+     <div>
+      power2
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -5pw
+     </div>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 2A1.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans action power3.
+    </td>
+    <td>
+     <div>
+      power3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build lab 3B5. tech sci. up sci.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      tech-sci
+     </div>
+     <div>
+      sci
+     </div>
+    </td>
+    <td>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      7vp
+     </div>
+     <div>
+      3pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 6B4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 4A4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars up sci.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos spend 1pw for 1c. federation 5A2,5A3,5B2,5B3 fed5.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      federation
+     </div>
+     <div>
+      round5
+     </div>
+    </td>
+    <td>
+     <div>
+      -1pw, 1c
+     </div>
+     <div>
+      -1t, 7vp, 6c
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special range+3. build m 9B5.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o, -1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans decline 4pw
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build ac1 8B1. tech adv-nav. cover nav. up sci.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -6c, -6o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 6B2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o, -1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans up nav. lostPlanet 2A0.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars federation 4A9,3A4,3B2,3C,3B5 fed5.
+    </td>
+    <td>
+     <div>
+      federation
+     </div>
+     <div>
+      round5
+     </div>
+    </td>
+    <td>
+     <div>
+      -2t, 7vp, 6c
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 5A2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 4pw for 1k. federation 8A3,7A9,7B5 fed6.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      federation
+     </div>
+     <div>
+      round5
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 1k
+     </div>
+     <div>
+      -3t, 6vp, 2k
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build ts 3B5.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos action qic2. fedtile fed4.
+    </td>
+    <td>
+     <div>
+      qic2
+     </div>
+    </td>
+    <td>
+     <div>
+      -3q, 7vp, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans up nav.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars action power4.
+    </td>
+    <td>
+     <div>
+      power4
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 7c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 6tg for 6c
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      6c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Gaia phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free1
+     </div>
+     <div>
+      tech-free2
+     </div>
+     <div>
+      booster3
+     </div>
+    </td>
+    <td>
+     <div>
+      3o, 5k, 4pw, 1q
+     </div>
+     <div>
+      4c
+     </div>
+     <div>
+      1k, 1c
+     </div>
+     <div>
+      1q, 2c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans income 1t
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free2
+     </div>
+     <div>
+      booster5
+     </div>
+    </td>
+    <td>
+     <div>
+      1t, 6o, 4k, 4pw
+     </div>
+     <div>
+      1k, 1c
+     </div>
+     <div>
+      2pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars income 1t. income 4pw
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free1
+     </div>
+     <div>
+      tech-free2
+     </div>
+     <div>
+      booster6
+     </div>
+    </td>
+    <td>
+     <div>
+      7o, 2k, 2t, 4pw
+     </div>
+     <div>
+      4c
+     </div>
+     <div>
+      1k, 1c
+     </div>
+     <div>
+      1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Income phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td class="major-event">
+     Round 5
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos pass booster3
+    </td>
+    <td>
+     <div>
+      adv-int
+     </div>
+    </td>
+    <td>
+     <div>
+      6vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans pass booster5
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos spend 2pw for 2c. build m 5A3.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+     <div>
+      round4
+     </div>
+    </td>
+    <td>
+     <div>
+      -2pw, 2c
+     </div>
+     <div>
+      -2c, -2o
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build gf 1A9.
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans decline 2pw
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build lab 1A3. tech adv-int. cover nav. up nav.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      nav
+     </div>
+    </td>
+    <td>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      1q, 3pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 1q for 1o. build m 5A10.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -1q, 1o
+     </div>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build ts 1A3.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 3pw for 1o. action power2. build m 1A11.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      power2
+     </div>
+     <div>
+      build
+     </div>
+     <div>
+      round4
+     </div>
+    </td>
+    <td>
+     <div>
+      -3pw, 1o
+     </div>
+     <div>
+      -5pw
+     </div>
+     <div>
+      -2c, -1o
+     </div>
+     <div>
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos up terra.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      federation
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      7vp, 6c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special 4pw.
+    </td>
+    <td>
+     <div>
+      tech-terra
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos federation 10B1,10B4,10C fed4.
+    </td>
+    <td>
+     <div>
+      federation
+     </div>
+    </td>
+    <td>
+     <div>
+      -1t, 7vp, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 1A0.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      round4
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -2o
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos up terra.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      terra
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars pass booster6
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build lab 7A2. tech free3. up terra.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      terra
+     </div>
+    </td>
+    <td>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos burn 1. action power5.
+    </td>
+    <td>
+     <div>
+      power5
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars up nav.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build ts 7A2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build PI 10B1.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -6c, -4o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 3pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars spend 1o for 1c. build lab 8B1. tech int. up int.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+     <div>
+      tech-int
+     </div>
+     <div>
+      int
+     </div>
+    </td>
+    <td>
+     <div>
+      -1o, 1c
+     </div>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      4k
+     </div>
+     <div>
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans action power4.
+    </td>
+    <td>
+     <div>
+      power4
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 7c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build ts 10B1.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars special range+3. build m 2B0.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans up terra.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      terra
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      3pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos action power3.
+    </td>
+    <td>
+     <div>
+      power3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars burn 1. action power6. build m 6B0.
+    </td>
+    <td>
+     <div>
+      power6
+     </div>
+     <div>
+      build
+     </div>
+     <div>
+      round4
+     </div>
+    </td>
+    <td>
+     <div>
+      -3pw
+     </div>
+     <div>
+      -2c, -1o, -1q
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 6tg for 6c
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      6c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars spend 4tg for tech. tech free3. up gaia. spend 4tg for tech. tech free2. up nav
+    </td>
+    <td>
+     <div>
+      gaia
+     </div>
+     <div>
+      nav
+     </div>
+    </td>
+    <td>
+     <div>
+      3t
+     </div>
+     <div>
+      1q, 3pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Gaia phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans income 1t
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free2
+     </div>
+     <div>
+      booster3
+     </div>
+    </td>
+    <td>
+     <div>
+      1t, 4o, 3k, 4pw
+     </div>
+     <div>
+      1k, 1c
+     </div>
+     <div>
+      1q, 2c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free1
+     </div>
+     <div>
+      tech-free2
+     </div>
+     <div>
+      booster1
+     </div>
+    </td>
+    <td>
+     <div>
+      4o, 4k
+     </div>
+     <div>
+      4c
+     </div>
+     <div>
+      1k, 1c
+     </div>
+     <div>
+      1k, 1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars income 1t. income 1t
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free1
+     </div>
+     <div>
+      booster5
+     </div>
+    </td>
+    <td>
+     <div>
+      5o, 1k, 2t, 4pw, 3c
+     </div>
+     <div>
+      4c
+     </div>
+     <div>
+      2pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Income phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td class="major-event">
+     Round 4
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans pass booster3
+    </td>
+    <td>
+     <div>
+      booster6
+     </div>
+    </td>
+    <td>
+     <div>
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build lab 10A6. tech free2. up terra.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      round3
+     </div>
+    </td>
+    <td>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build ts 10A6.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos pass booster1
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 2pw for 2c. build gf 5A10.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      -2pw, 2c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos up terra.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      terra
+     </div>
+     <div>
+      round3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      3pw
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans action power3.
+    </td>
+    <td>
+     <div>
+      power3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos action qic1. tech free3. up terra.
+    </td>
+    <td>
+     <div>
+      qic1
+     </div>
+     <div>
+      round3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4q
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans up nav.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      nav
+     </div>
+     <div>
+      round3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      1q, 3pw
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos up terra.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      terra
+     </div>
+     <div>
+      round3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      2o
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special 4pw.
+    </td>
+    <td>
+     <div>
+      tech-terra
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars pass booster5
+    </td>
+    <td>
+     <div>
+      booster7
+     </div>
+    </td>
+    <td>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build lab 10B4. tech int. up int.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      tech-int
+     </div>
+     <div>
+      int
+     </div>
+     <div>
+      round3
+     </div>
+    </td>
+    <td>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      2k
+     </div>
+     <div>
+      2q
+     </div>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 7A2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars spend 1o for 1t. build gf 10A0.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      -1o, 1t
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos action power4.
+    </td>
+    <td>
+     <div>
+      power4
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 7c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans action power5.
+    </td>
+    <td>
+     <div>
+      power5
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 3pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 3pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars burn 1. burn 1. action power6. build m 7A10.
+    </td>
+    <td>
+     <div>
+      power6
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3pw
+     </div>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build ts 10B4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 6tg for 6c
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      6c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars spend 4tg for tech. tech free1. up gaia
+    </td>
+    <td>
+     <div>
+      round3
+     </div>
+    </td>
+    <td>
+     <div>
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Gaia phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans income 1t
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      booster6
+     </div>
+    </td>
+    <td>
+     <div>
+      1t, 4o, 2k, 4pw
+     </div>
+     <div>
+      1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars income 4pw
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      booster7
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw, 4o, 1k, 2t, 3c
+     </div>
+     <div>
+      1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free1
+     </div>
+     <div>
+      tech-free2
+     </div>
+     <div>
+      booster3
+     </div>
+    </td>
+    <td>
+     <div>
+      5o, 3k
+     </div>
+     <div>
+      4c
+     </div>
+     <div>
+      1k, 1c
+     </div>
+     <div>
+      1q, 2c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Income phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td class="major-event">
+     Round 3
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans pass booster6
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special range+3. build m 10A6.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 3pw for 1o. spend 2pw for 2c. build gf 7A2.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      -5pw, 1o, 2c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 7B0.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      round2
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o, -1q
+     </div>
+     <div>
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 7B4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      round2
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o, -1q
+     </div>
+     <div>
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars burn 1. pass booster7
+    </td>
+    <td>
+     <div>
+      booster6
+     </div>
+    </td>
+    <td>
+     <div>
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 8A4.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      round2
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+     <div>
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars spend 1k for 1c. spend 1o for 1c. build m 4A9.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -1k, 2c, -1o
+     </div>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans up nav.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 3pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars burn 3. spend 3pw for 3c. build ts 8B1.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3pw, 3c
+     </div>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans action power3.
+    </td>
+    <td>
+     <div>
+      power3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build m 8B1.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special 4pw.
+    </td>
+    <td>
+     <div>
+      tech-terra
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos pass booster3
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 3pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 3pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build m 5A8.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o, -2q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans action power5.
+    </td>
+    <td>
+     <div>
+      power5
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2k
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 3pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos spend 1pw for 1c. build ac1 5B3. tech free2. up int.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+     <div>
+      int
+     </div>
+    </td>
+    <td>
+     <div>
+      -1pw, 1c
+     </div>
+     <div>
+      -6c, -6o
+     </div>
+     <div>
+      2q, 3pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build m 3B5.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      round2
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o, -1q
+     </div>
+     <div>
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 5tg for 5c. spend 1tg for 1c
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      6c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars spend 4tg for tech. tech nav. up nav
+    </td>
+    <td>
+     <div>
+      tech-nav
+     </div>
+    </td>
+    <td>
+     <div>
+      1o, 1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Gaia phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans income 1t
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      booster5
+     </div>
+    </td>
+    <td>
+     <div>
+      1t, 1o, 2k, 4pw
+     </div>
+     <div>
+      2pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      tech-free1
+     </div>
+     <div>
+      booster2
+     </div>
+    </td>
+    <td>
+     <div>
+      5o, 2k
+     </div>
+     <div>
+      4c
+     </div>
+     <div>
+      1o, 2t
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars income 4pw
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      booster6
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw, 2o, 1k, 2t
+     </div>
+     <div>
+      1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Income phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td class="major-event">
+     Round 2
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans pass booster5
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos pass booster2
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans up nav.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      nav
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 1A3.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build PI 8A2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      round1
+     </div>
+    </td>
+    <td>
+     <div>
+      -6c, -4o
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 10B1.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o, -1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans spend 3pw for 1o. build gf 8A4. spend 2pw for 2c.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -5pw, 1o, 2c
+     </div>
+     <div>
+      -1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos spend 4pw for 1q. action qic1. tech free1. up int.
+    </td>
+    <td>
+     <div>
+      spend
+     </div>
+     <div>
+      qic1
+     </div>
+     <div>
+      int
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 1q
+     </div>
+     <div>
+      -4q
+     </div>
+     <div>
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars pass booster6
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans special 4pw. spend 3pw for 1o.
+    </td>
+    <td>
+     <div>
+      tech-terra
+     </div>
+     <div>
+      spend
+     </div>
+    </td>
+    <td>
+     <div>
+      4pw
+     </div>
+     <div>
+      -3pw, 1o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build lab 5B3. tech nav. up nav.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      tech-nav
+     </div>
+    </td>
+    <td>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      1o, 1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars burn 4. action power3.
+    </td>
+    <td>
+     <div>
+      power3
+     </div>
+    </td>
+    <td>
+     <div>
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 3pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build lab 3A7. tech terra. up terra.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      terra
+     </div>
+    </td>
+    <td>
+     <div>
+      -5c, -3o
+     </div>
+     <div>
+      2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build ts 5B3.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars up nav.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      nav
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build ts 8A2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos up nav.
+    </td>
+    <td>
+     <div>
+      up
+     </div>
+     <div>
+      nav
+     </div>
+    </td>
+    <td>
+     <div>
+      -4k
+     </div>
+     <div>
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build PI 3B2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+     <div>
+      round1
+     </div>
+    </td>
+    <td>
+     <div>
+      -6c, -4o
+     </div>
+     <div>
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars charge 2pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build ts 3A7.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos special range+3. build m 5B3.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -2c, -1o, -1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos charge 1pw
+    </td>
+    <td>
+     <div>
+      charge
+     </div>
+    </td>
+    <td>
+     <div>
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build ts 3B2.
+    </td>
+    <td>
+     <div>
+      build
+     </div>
+    </td>
+    <td>
+     <div>
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Gaia phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      booster3
+     </div>
+    </td>
+    <td>
+     <div>
+      3o, 1k
+     </div>
+     <div>
+      1q, 2c
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      booster5
+     </div>
+    </td>
+    <td>
+     <div>
+      3o, 1k
+     </div>
+     <div>
+      2pw
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      booster2
+     </div>
+    </td>
+    <td>
+     <div>
+      3o, 1k, 1t
+     </div>
+     <div>
+      1o, 2t
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td class="phase-change">
+     Income phase
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td class="major-event">
+     Round 1
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars booster booster2
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos booster booster5
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans booster booster3
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 6A2
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build m 9A8
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 10B4
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 8A2
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans build m 3A7
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos build m 3A6
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars build m 3B2
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     terrans
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+    </td>
+    <td>
+     <div>
+      3k, 4o, 15c, 1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     xenos
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+     <div>
+      int
+     </div>
+    </td>
+    <td>
+     <div>
+      3k, 4o, 15c, 1q
+     </div>
+     <div>
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     itars
+    </td>
+    <td>
+     <div>
+      income
+     </div>
+    </td>
+    <td>
+     <div>
+      3k, 5o, 15c, 1q
+     </div>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     p3 faction terrans
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     p2 faction xenos
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     p1 faction itars
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     init 3 Good-morning
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr class="major-event">
+    <td>
+     Game Started
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</div>
